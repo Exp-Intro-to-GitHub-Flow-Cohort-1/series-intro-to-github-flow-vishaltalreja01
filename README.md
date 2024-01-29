@@ -1,75 +1,78 @@
-<header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+# 🏄‍♂️ Vishal Kumar
 
-# Introduction to GitHub
+**`Data Analyst`**
 
-_Get started using GitHub in less than an hour._
+I'm an Vishal Kumar Data Analyst and Web Developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-</header>
+## Profile Views
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+  <table>
+    <tr>
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/vishaltalreja01"> <img src="https://komarev.com/ghpvc/?username=vishaltalreja01&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
 
-## Step 1: Create a branch
+## 🧰 Languages and Tools
 
-_Welcome to "Introduction to GitHub"! :wave:_
+<p>
+  <img title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img title="Anaconda" width="30px" src="https://github.com/vishaltalreja01/vishaltalreja01/assets/85024054/e459280b-61f0-4ea8-bbe1-4197d138ab02">
+  <img title="Tablue" width="30px" src="https://github.com/vishaltalreja01/vishaltalreja01/assets/85024054/d6c1538c-c6a5-40a3-9855-f8f22c4f1e8e">
+  <img title="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" /> 
+  <img title="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img title="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img title="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img title="bootstrap" width="30px" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>                    
+  <img title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img title="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" />
+  <img title="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" /> 
+</p>
 
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+## Connect with me:
 
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vishalktalreja)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalktalreja01/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishaltalreja01@gmail.com)
 
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
 
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
+## 📊 My Github History
 
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
+<details>
+  <summary>⚡ Github Stats</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishaltalreja01&show_icons=true&theme=gruvbox&hide_border=true" alt="Vishal's Github Stats" />
+</details>
 
-![profile-readme-example](/images/profile-readme-example.png)
 
-### :keyboard: Activity: Your first branch
+<details>
+  <summary>🔥 GitHub Streak Stats</summary>
+  <br>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=vishaltalreja01&theme=gruvbox&hide_border=true" alt="Vishal's GitHub Streak Stats" />
+</details>
 
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
 
-   ![code-tab](/images/code-tab.png)
+<details>
+  <summary>🏆 Github Trophies</summary>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=vishaltalreja01&theme=nord" alt="Vishal's Github Activity Graph" />
+</details>
 
-3. Click on the **main** branch drop-down.
+<details>
+  <summary>🖱️ Most used languages</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vishaltalreja01&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true" alt="Vishal's Github Language Stats" />
+</details>
 
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
 
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
-
-   ![create-branch-button](/images/create-branch-button.png)
-
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
-
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/community/discussions/categories/github-education) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+<br>
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Sunday, December 10th, 2023, 04:30:00 PM
+<!--RECENT_ACTIVITY:last_update_end-->
